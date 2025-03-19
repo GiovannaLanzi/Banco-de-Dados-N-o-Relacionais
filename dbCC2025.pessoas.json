@@ -1,0 +1,5 @@
+[
+{"nome":"Silva","altura":{"$numberInt":"175"}},
+{"nome":"Mara","altura":{"$numberInt":"170"}},
+{"nome":"Sara","altura":{"$numberInt":"170"}}
+]
